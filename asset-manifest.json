@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZannWolf/aisi_site/static/css/main.f3942b14.css",
+    "main.js": "/ZannWolf/aisi_site/static/js/main.87160b69.js",
+    "index.html": "/ZannWolf/aisi_site/index.html",
+    "main.f3942b14.css.map": "/ZannWolf/aisi_site/static/css/main.f3942b14.css.map",
+    "main.87160b69.js.map": "/ZannWolf/aisi_site/static/js/main.87160b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3942b14.css",
+    "static/js/main.87160b69.js"
+  ]
+}
